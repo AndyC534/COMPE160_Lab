@@ -1,3 +1,9 @@
+/* Name: Andy Chen
+Course: COMPE 160
+Week: 4 Question: [1]
+Brief: Read a positive integer and print the sum of its digits using a while loop with cin and cout.
+*/
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,9 @@
+/* Name: Andy Chen
+Course: COMPE 160
+Week: 4 Question: [2]
+Brief: Task: Ask the user to enter positive integers and keep when the user enters 0 or a negative number, print the greatest number that was entered and stop.
+*/
+
 #include <iostream>
 
 using namespace std;
