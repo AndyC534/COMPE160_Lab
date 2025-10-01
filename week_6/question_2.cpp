@@ -11,6 +11,8 @@ using namespace std;
 int main() {
 
     int a[9];
+
+;
     int input;
 
     for(int i = 0; i < 9; i++) {
@@ -21,12 +23,10 @@ int main() {
 
     for(int j = 0; j < 9; j++) {
         if (a[j] == input) {
-            cout << input << endl;
-            return 0;
-        }else{
-            cout << -1 << endl;
+            cout << j << endl;
             return 0;
         }
     }
+    cout << -1 << endl;
     return 0;
 }
