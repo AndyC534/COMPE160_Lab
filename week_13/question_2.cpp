@@ -2,7 +2,7 @@
 Name: Andy Chen
 Course: COMPE 160
 Week: 13 Question: [1]
-Brief: parameterized macro POINT(t) that generates a structure named Point with three fields of type t
+Brief: macro that reverses the elements of an array in place
 */
 
 #include <iostream>
